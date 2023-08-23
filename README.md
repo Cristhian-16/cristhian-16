@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristhian Espiritu Ñahui</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-- 🔭 I’m currently working on [GuitarLA](https://github.com/Cristhian-16/GuitarLa.git)
-
 - 🌱 I’m currently learning **Next.js / Nest.js**
 
 - 👯 I’m looking to collaborate on [MERN-Calendar](https://github.com/Cristhian-16/MERN-CALENDAR.git)
