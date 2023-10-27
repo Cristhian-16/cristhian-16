@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Next.js / Nest.js**
 
-- 👯 I’m looking to collaborate on [MERN-Calendar](https://github.com/Cristhian-16/MERN-CALENDAR.git)
-
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 💬 Ask me about **React, Javascript, Html, Css**
+- 💬 Ask me about **React, Javascript, Html, Css, Tipescrypt , Next.js**
 
 - 📫 How to reach me **cristhianespiritunahui@gmail.com**
 
